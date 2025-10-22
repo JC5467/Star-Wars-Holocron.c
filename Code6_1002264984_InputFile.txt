@@ -1,0 +1,43 @@
+Anakin Skywalker|1.88|M|Jedi Order|Lightsaber|3
+Maul|1.75|M|Sith|Lightsaber|1
+Aurra Sing|1.83|F|Bounty Hunter|Blaster Rifle|1
+Clone Trooper|1.83|M|Galactic Republic|Blaster Rifle|2
+Even Piell|1.22|M|Jedi Order|Lightsaber|2
+Jocasta Nu|1.69|F|Jedi Order|Lightsaber|2
+Jango Fett|1.83|M|Bounty Hunter|Blaster Rifle|2
+Kit Fisto|1.96|M|Jedi Order|Lightsaber|3
+Mace Windu|1.92|M|Jedi Order|Lightsaber|3
+Luminara Unduli|1.76|F|Jedi Order|Lightsaber|3
+Obi-Wan Kenobi|1.82|M|Jedi Order|Lightsaber|3
+Qui-Gon Jinn|1.93|M|Jedi Order|Lightsaber|1
+General Grievous|2.16|M|CIS|Lightsabers|3
+Luke Skywalker|1.72|M|Rebel Alliance|Lightsaber|4
+Leia Organa|1.5|F|Rebel Alliance|Blaster Pistol|4
+Han Solo|1.8|M|Rebel Alliance|Blaster Pistol|4
+Chewbacca|2.28|M|Rebel Alliance|Bowcaster|4
+Yoda|0.66|M|Jedi Order|Lightsaber|4
+Darth Vader|2.03|M|Galactic Empire|Lightsaber|4
+R2-D2|1.09|Droid|Rebel Alliance|Restraining Bolt|4
+C-3P0|1.77|Droid|Rebel Alliance|Restraining Bolt|4
+Darth Sidious|1.78|M|Galactic Empire|Force Lightning|5
+Lando Calrissian|1.78|M|Rebel Alliance|SE-14 Blaster Pistol|5
+Grand Moff Tarkin|1.85|M|Galactic Empire|Blaster Pistol|4
+Boba Fett|1.83|M|Bounty Hunter|Blaster Rifle|4
+Jabba the Hutt|3.9|M|Gangster|Rancor Pitt|4
+Wicket|0.8|M|Rebel Alliance|Bow|6
+Stormtroopers|1.83|M|Galactic Empire|Blaster Rifle|4
+Jar Jar Binks|1.96|M|Galactic Republic|Electropole|1
+Ki-Adi-Mundi|1.98|M|Jedi Order|Lightsaber|1
+
+
+
+
+
+
+
+
+
+
+
+
+
